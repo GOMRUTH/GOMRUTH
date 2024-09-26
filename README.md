@@ -31,7 +31,7 @@ Este proyecto se encuentra actualmente en desarrollo activo y aún no está comp
 ### [Curso Desarrollo Web Full-Stack](https://github.com/GOMRUTH/Proyecto-Curso-Full-Stack-1)
 **Descripción**: Realicé un curso en el que desarrollé un e-commerce online, utilizando tecnologías como HTML, CSS, JavaScript, Node.js y Express.js, entre otras.
 
-### [Interfaz de Usuarios en Tecnologías Web (Universidad Nacional del Oeste)](<https://github.com/GOMRUTH/IU_TW)
+### [Interfaz de Usuarios en Tecnologías Web (Universidad Nacional del Oeste)](https://github.com/GOMRUTH/IU_TW)
 **Descripción**: Realicé un proyecto en equipo con mis colegas durante un curso en la universidad, enfocado en la recomendación de libros para una biblioteca mediante el uso de inteligencia artificial. Para este proyecto, utilizamos tecnologías como Python, Java Spring Boot, PostgreSQL como base de datos, y herramientas de desarrollo web como HTML, CSS y JavaScript.  
 Mi principal responsabilidad fue desarrollar la mayor parte del Frontend, mientras que mis compañeros se encargaron del Backend y la gestión de la base de datos. Aunque el proyecto aún está un poco incompleto y estamos considerando algunas mejoras para finalizarlo, el trabajo en equipo fue clave para lograr una buena integración de cada componente.
 
