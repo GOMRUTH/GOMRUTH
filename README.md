@@ -28,7 +28,7 @@ My main responsibility was developing most of the Frontend, while my colleagues 
 ## Mis Proyectos
 Este proyecto se encuentra actualmente en desarrollo activo y aún no está completo. Se están realizando cambios y mejoras en curso. Ten en cuenta que algunas características pueden no estar completamente implementadas en este momento.
 
-### [Curso Desarrollo Web Full-Stack](https://github.com/GOMRUTH/Proyecto-Curso-Full-Stack-1)
+### [Curso Desarrollo Web Full-Stack (UTN.BA)](https://github.com/GOMRUTH/Proyecto-Curso-Full-Stack-1)
 **Descripción**: Realicé un curso en el que desarrollé un e-commerce online, utilizando tecnologías como HTML, CSS, JavaScript, Node.js y Express.js, entre otras.
 
 ### [Interfaz de Usuarios en Tecnologías Web (Universidad Nacional del Oeste)](https://github.com/GOMRUTH/IU_TW)
