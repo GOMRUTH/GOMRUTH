@@ -1,7 +1,9 @@
-# 👋 Hi, I’m Ruth Leila Gomez @GOMRUTH
-- 👀 I’m interested in Computer Science, Java Developer, Web Developer, Tester, etc.
-- 🌱 I’m currently studying for a Bachelor's degree in Computer Science and a Technical University Degree in Web Technologies. I am also learning Java, Python, HTML, CSS, JavaScript, Node.js, CRUD, and PostgreSQL.
-- 💞️ I’m looking to collaborate on projects.
+# # 👋 Hi, I’m Ruth Leila Gomez @GOMRUTH
+
+- 👀 I’m interested in Computer Science, Java Development, Web Development, Testing, and more.
+- 🌱 I’m currently pursuing a Bachelor's degree in Computer Science and a Technical University Degree in Web Technologies. I am continuously expanding my knowledge in Java, Python, HTML, CSS, JavaScript, Node.js, CRUD, and PostgreSQL.
+- 💻 I have experience in Level 1 IT Support, providing technical assistance and troubleshooting.
+- 💞️ I’m looking to collaborate on projects and would appreciate any feedback or opinions on my work as I continue to grow and improve my skills
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ruthleilagomez)
 
 ## My Projects
@@ -20,9 +22,11 @@ My main responsibility was developing most of the Frontend, while my colleagues 
 ---
 
 # 👋 Hola, soy Ruth Leila Gómez @GOMRUTH
-- 👀 Estoy interesada en Ciencias de la Computación, Desarrolladora Java, Desarrolladora Web, Tester, etc.
-- 🌱 Actualmente estoy estudiando la Licenciatura en Informática y la Tecnicatura Universitaria en Tecnologías Web. También estoy aprendiendo Java, Python, HTML, CSS, JavaScript, Node.js, CRUD y PostgreSQL.
-- 💞️ Estoy buscando colaborar en proyectos.
+
+- 👀 Me interesa la Ciencia de la Computación, Desarrollo en Java, Desarrollo Web, Testing, entre otros.
+- 🌱 Actualmente estoy cursando la Licenciatura en Ciencias de la Computación y una Tecnicatura en Tecnologías Web. Continúo ampliando mis conocimientos en Java, Python, HTML, CSS, JavaScript, Node.js, CRUD y PostgreSQL y mas.
+- 💻 Tengo experiencia en Soporte Nivel 1 en el área de TI, brindando asistencia técnica y resolución de problemas.
+- 💞️ Estoy buscando colaborar en proyectos y agradecería cualquier comentario u opinión sobre mi trabajo mientras sigo creciendo y mejorando mis habilidades.
 - 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/ruthleilagomez)
 
 ## Mis Proyectos
